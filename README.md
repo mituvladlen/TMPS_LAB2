@@ -127,8 +127,13 @@ The implementation successfully demonstrates all three creational design pattern
 
 The program creates multiple orders (dine-in, delivery, and takeout) with different meals, menu items, and payment methods, calculating totals with taxes and fees, and processing payments accordingly.
 
-_(Screenshots of program execution will be added here)_
-
+![1.png](1.png)
+![2.png](2.png)
+![3.png](3.png)
+![4.png](4.png)
+![5.png](5.png)
+![6.png](6.png)
+![7.png](7.png)
 ---
 
 ## Conclusion
